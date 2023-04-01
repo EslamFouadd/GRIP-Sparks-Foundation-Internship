@@ -5,3 +5,5 @@ In this Project we are ggoing to explore the Global Terrorism Database to do the
 ● As a security/defense analyst, try to find out the hot zone of terrorism.
 
 ● What all security issues and insights you can derive by EDA?
+
+● Dataset on Kaggle: https://www.kaggle.com/datasets/START-UMD/gtd
